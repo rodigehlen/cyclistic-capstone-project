@@ -41,7 +41,18 @@ The yearly data is originally organized in separate tables containing the follow
 
 Each row represents a single ride.
 
-The dataframes used in this analysis are included in the project folder. Original data is publicly available at [this link](https://divvy-tripdata.s3.amazonaws.com/index.html).
+Original data is publicly available at [this link](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
+The raw Divvy datasets are not stored in this repository due to file size limits.
+
+If you'd like to **run the code in the R Markdown file**, please:
+
+1. Download the datasets from the links below:
+   - [trips_2019_q1.csv](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip)
+   - [trips_2020_q1.csv](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip)
+2. Unzip and place the `.csv` files into the `data/` folder at the root of this repository. Make sure the names match those expected in the R script.
+
+This will ensure the R Markdown code runs without errors.
 
 ---
 
@@ -365,11 +376,11 @@ The average trip duration for casual users is consistently higher than for membe
 
 ### Key Findings
 
-- **Members dominate total ride volume**
-- **Casual users take longer trips**
-- **Round trips are more common among casual users**
-- **Members ride more on weekdays; casual users on weekends**
-- **Trip durations are longest on weekends for casual users**
+- Members dominate total ride volume
+- Casual users take longer trips
+- Round trips are more common among casual users
+- Members ride more on weekdays; casual users on weekends
+- Trip durations are longest on weekends for casual users
 
 ---
 
@@ -377,13 +388,13 @@ The average trip duration for casual users is consistently higher than for membe
 
 ### Recommendations Based on Analysis
 
-**Offer targeted membership promotions to casual users.**
+1. **Offer targeted membership promotions to casual users.**
 Create time-limited discounts or free trial periods for casual riders, especially after their second or third ride, to encourage commitment while the service is still top-of-mind.
 
-**Enhance the value of membership for leisure-focused users.**
+2. **Enhance the value of membership for leisure-focused users.**
 Highlight membership benefits that appeal to casual riders — such as unlimited rides, weekend access, or bundled tourist/local perks — through in-app messaging or email campaigns.
 
-**Analyze and improve station placement in high-leisure areas.**
+3. **Analyze and improve station placement in high-leisure areas.**
 Ensure casual users have a smooth, convenient experience by expanding or optimizing station coverage near parks, waterfronts, and event areas — making it easier for them to envision regular use and see value in upgrading.
 
 ### Next Steps
