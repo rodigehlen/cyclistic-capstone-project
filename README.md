@@ -29,6 +29,8 @@ You can download the raw datasets from:
 
 Due to GitHub file size restrictions, the full datasets are not stored in this repository.
 
+If you'd like to **run the code in the R Markdown file**, please download the datasets from the links above, unzip and place the `.csv` files into the data/ folder.
+
 ---
 
 ## Files in This Repository
@@ -38,6 +40,7 @@ Due to GitHub file size restrictions, the full datasets are not stored in this r
 | `cyclistic_capstone_project.Rmd` | R Markdown file with full analysis |
 | `cyclistic_capstone_project.html` | Rendered HTML version for easier viewing |
 | `README.md` | This file |
+| `data/` | Folder to store datasets |
 
 ---
 
