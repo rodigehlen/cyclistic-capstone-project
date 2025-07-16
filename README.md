@@ -1,5 +1,4 @@
-# cyclistic-capstone-project
-Capstone from the Google Data Analytics Professional Certificate
+# Cyclistic Capstone Project
 
 This is the final project of the **Google Data Analytics Professional Certificate**. The analysis focuses on usage trends among different types of Cyclistic bike-share customers, aiming to help the marketing team design strategies to convert casual riders into annual members.
 
@@ -8,7 +7,7 @@ This is the final project of the **Google Data Analytics Professional Certificat
 ## Case Study Summary
 
 - **Business Task**: Identify trends in how annual members and casual riders use Cyclistic bikes differently, in order to support a marketing campaign aimed at converting casual riders into members.
-- **Client**: Cyclistic (a fictional bike-share company based on real-world data from [Divvy/Motivate](https://divvybikes.com/system-data))
+- **Client**: Cyclistic (a fictional bike-share company based on real-world data from [Divvy/Motivate](https://divvybikes.com/system-data)
 - **Analyst**: Rodrigo Gehlen
 - **LinkedIn**: [linkedin.com/in/rwgehlen](https://www.linkedin.com/in/rwgehlen/)
 - **Tools Used**:  
@@ -26,8 +25,8 @@ This is the final project of the **Google Data Analytics Professional Certificat
 | `cyclistic_capstone_project.Rmd` | R Markdown file with full analysis |
 | `cyclistic_capstone_project.html` | Rendered HTML version for easier viewing |
 | `README.md` | This file |
-| `data/` | Folder for any supporting datasets |
-| `images/` | Folder for plots used in reporting |
+| `data/` | Datasets folder |
+| `images/` | Plots folder |
 
 ---
 
