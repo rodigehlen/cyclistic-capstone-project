@@ -7,8 +7,8 @@ This is the final project of the **Google Data Analytics Professional Certificat
 ## Case Study Summary
 
 - **Business Task**: Identify trends in how annual members and casual riders use Cyclistic bikes differently, in order to support a marketing campaign aimed at converting casual riders into members.
-- **Client**: Cyclistic (a fictional bike-share company based on real-world data from [Divvy/Motivate](https://divvybikes.com/system-data)
-- **Analyst**: Rodrigo Gehlen
+- **Client**: Cyclistic (a fictional bike-share company based on real-world data from [Divvy/Motivate](https://divvybikes.com/system-data))
+- **Analyst**: Rodrigo Willrich Gehlen
 - **LinkedIn**: [linkedin.com/in/rwgehlen](https://www.linkedin.com/in/rwgehlen/)
 - **Tools Used**:  
   - R  
