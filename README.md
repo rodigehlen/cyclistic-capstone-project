@@ -18,6 +18,19 @@ This is the final project of the **Google Data Analytics Professional Certificat
 
 ---
 
+## Data Source
+
+This project uses the public Divvy bike trip data from 2019 and 2020.
+
+You can download the raw datasets from:
+
+- [Divvy Trip Data 2019](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip)
+- [Divvy Trip Data 2020](https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip)
+
+Due to GitHub file size restrictions, the full datasets are not stored in this repository.
+
+---
+
 ## Files in This Repository
 
 | File | Description |
@@ -25,8 +38,6 @@ This is the final project of the **Google Data Analytics Professional Certificat
 | `cyclistic_capstone_project.Rmd` | R Markdown file with full analysis |
 | `cyclistic_capstone_project.html` | Rendered HTML version for easier viewing |
 | `README.md` | This file |
-| `data/` | Datasets folder |
-| `images/` | Plots folder |
 
 ---
 
