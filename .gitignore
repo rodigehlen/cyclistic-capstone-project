@@ -1,0 +1,11 @@
+# Ignore R session files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore data files
+data/
+
+# Ignore temporary knit files
+*.knit.md
